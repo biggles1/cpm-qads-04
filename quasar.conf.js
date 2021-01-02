@@ -88,7 +88,7 @@ module.exports = function (ctx) {
       https: false,
       port: 8080,
       // open: true // opens browser window automatically
-      open: 'firefox',
+      open: 'microsoftedge',
       // vueDevtools: false
     },
 
